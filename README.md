@@ -11,5 +11,6 @@ install them with:
 apt-get install streamer
 apt-get install gnome-screenshot
 
-Kevin Agusto 
+Kevin AS
 
+-- every 3 seconds
